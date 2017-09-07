@@ -1,0 +1,5 @@
+/Users/BrandonGreet/Projects/TsiolkovskyBot/TsiolkovskyBot/bin/Debug/TsiolkovskyBot.exe
+/Users/BrandonGreet/Projects/TsiolkovskyBot/TsiolkovskyBot/bin/Debug/TsiolkovskyBot.pdb
+/Users/BrandonGreet/Projects/TsiolkovskyBot/TsiolkovskyBot/obj/x86/Debug/TsiolkovskyBot.csproj.CoreCompileInputs.cache
+/Users/BrandonGreet/Projects/TsiolkovskyBot/TsiolkovskyBot/obj/x86/Debug/TsiolkovskyBot.exe
+/Users/BrandonGreet/Projects/TsiolkovskyBot/TsiolkovskyBot/obj/x86/Debug/TsiolkovskyBot.pdb
